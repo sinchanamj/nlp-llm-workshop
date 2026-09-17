@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+pypdf
+python-docx
+sentence-transformers
+torch
+torchvision
+faiss-cpu
+groq
